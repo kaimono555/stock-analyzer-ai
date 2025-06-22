@@ -1,0 +1,6 @@
+{
+  "name": "株式分析AIアプリ_v1.0",
+  "description": "企業名や銘柄コードを入力すると、Gemini APIを利用して詳細な株式分析レポートを生成するアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
